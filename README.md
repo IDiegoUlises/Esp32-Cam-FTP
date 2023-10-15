@@ -1,5 +1,6 @@
 # Esp32-Cam-FTP
 
+* Descargar la libreria FTPClient desde administrar bibloteca
 ### Codigo copiado
 ```c++
 #include "esp_camera.h"
