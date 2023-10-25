@@ -262,7 +262,7 @@ void setup()
   Serial.begin(115200);
 
   //Se conecta la a red wifi, en caso de no conectarse quedara en un bucle infinito
-  WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
+  WiFi.begin(WIFI_SSID, WIFI_PASS);
   while (WiFi.status() != WL_CONNECTED)
   {
     Serial.print(".");
