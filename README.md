@@ -1185,7 +1185,7 @@ bool    makeExistsPath( char * path, char * param = NULL );
 ### FTP Cliente Configuracion
 <img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/IMG_20240215_231327.jpg" width="350" height="650" />
 
-* Se utiliza la aplicacion AndFTP pero se puede utilizar cualquiera
+* Se utiliza la aplicacion AndFTP pero se puede utilizar otra diferente
 * Usuario y contraseña es esp32  
 * Puerto 21
 
