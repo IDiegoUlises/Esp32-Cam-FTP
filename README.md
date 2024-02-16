@@ -1181,4 +1181,4 @@ bool    makeExistsPath( char * path, char * param = NULL );
 <img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/FTP-Server-Librerias.png" />
 
 > [!IMPORTANT]
-> Se debe crear el archivo con la extension "h" y "ccp" incluyendo el codigo principal del programa
+> Se debe crear el archivo "ESP32FtpServer.h" y "ESP32FtpServer.cpp" en el codigo principal del programa
