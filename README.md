@@ -1181,6 +1181,3 @@ bool    makeExistsPath( char * path, char * param = NULL );
 <img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/FTP-Server-Librerias.png" />
 
 * Se debe crear el archivo "ESP32FtpServer.h" y "ESP32FtpServer.cpp" en el codigo principal del programa
-
-> [!IMPORTANT]
-> Se debe crear el archivo "ESP32FtpServer.h" y "ESP32FtpServer.cpp" en el codigo principal del programa
