@@ -1180,4 +1180,5 @@ bool    makeExistsPath( char * path, char * param = NULL );
 ### Librerias
 <img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/FTP-Server-Librerias.png" />
 
-* Se deben agregar los tres archivos de codigo para
+> [!IMPORTANT]
+> Se deben agregar los tres archivos de codigo para
