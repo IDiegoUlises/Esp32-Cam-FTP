@@ -1183,8 +1183,9 @@ bool    makeExistsPath( char * path, char * param = NULL );
 * Se debe crear el archivo "ESP32FtpServer.h" y "ESP32FtpServer.cpp" en el codigo principal del programa
 
 ### FTP Cliente Configuracion
-<img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/IMG_20240215_231327.jpg" />
+<img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/IMG_20240215_231327.jpg" width="350" height="650" />
 
 ### FTP Cliente Conexion Exitosa
-<img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/Screenshot_2024-02-15-22-42-59-861_lysesoft.andftp.jpg" />
+<img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/Screenshot_2024-02-15-22-42-59-861_lysesoft.andftp.jpg" width="350" height="650" />
+
 
