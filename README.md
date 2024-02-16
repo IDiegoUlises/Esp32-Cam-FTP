@@ -1190,6 +1190,6 @@ bool    makeExistsPath( char * path, char * param = NULL );
 * La direccion IP es la direccion IP del Esp32
 
 ### FTP Cliente Conexion Exitosa
-<img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/Screenshot_2024-02-15-22-42-59-861_lysesoft.andftp.jpg" width="350" height="650" />
+<img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/Screenshot_2024-02-15-22-42-59-861_lysesoft.andftp.jpg" width="400" height="650" />
 
 
