@@ -1176,3 +1176,9 @@ bool    makeExistsPath( char * path, char * param = NULL );
 
 #endif // FTP_SERVERESP_H
 ```
+
+### Librerias
+<img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/FTP-Server-Librerias.png" />
+* Se deben agregar 3 archivos
+* El primero el codigo principal
+* El segundo es la libreria h
