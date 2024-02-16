@@ -1186,6 +1186,7 @@ bool    makeExistsPath( char * path, char * param = NULL );
 <img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/IMG_20240215_231327.jpg" width="350" height="650" />
 
 * Se utiliza la aplicacion AndFTP pero se puede utilizar otra diferente
+* La direccion IP es la direccion del Esp32
 * Usuario y contraseña es esp32  
 * Puerto 21
 
