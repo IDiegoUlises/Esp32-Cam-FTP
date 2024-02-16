@@ -1181,4 +1181,4 @@ bool    makeExistsPath( char * path, char * param = NULL );
 <img src="https://github.com/IDiegoUlises/Esp32-Cam-FTP/blob/main/imagenes/FTP-Server-Librerias.png" />
 
 > [!IMPORTANT]
-> Se deben agregar los dos archivos cpp y h mas el codigo principal para funcionar
+> Se deben agregar el archivo "h" y "ccp" incluyendo el codigo principal del programa
