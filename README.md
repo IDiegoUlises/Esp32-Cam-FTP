@@ -1,6 +1,4 @@
-# Esp32-Cam-FTP
-
-* Se deben crear 3 archivos diferente
+# Esp32 Cam FTP Server
 
 ### Codigo Main Principal
 ```c++
